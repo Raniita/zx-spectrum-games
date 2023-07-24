@@ -1,0 +1,1 @@
+pasmo --name HolaMundo --tapbas holamundo.asm holamundo.tap --log
